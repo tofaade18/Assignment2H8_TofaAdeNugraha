@@ -1,0 +1,85 @@
+body {
+    background-color: gray;
+}
+.navbar a {
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navbar {
+    text-align: right;
+    font-size: smaller;
+}
+#judul {
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+}
+.kontak {
+    background-color: blue;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.resume{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.availl{
+    word-spacing: 50px;
+}
+.usia{
+    word-spacing: 102px;
+}
+.lokasi{
+    word-spacing: 85px;
+}
+.exp{
+    word-spacing: 43px;
+}
+.email{
+    word-spacing: 90px;
+}
+.submit{
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding-left: 260px;
+    padding-right: 260px;
+}
+.form{
+    border: 2px solid white;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+/* #name{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#role{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#avail{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#Usia{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#thn{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#email{
+    padding-left: 200px;
+    padding-right: 200px;
+} */
